@@ -1,0 +1,12 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-top: 2rem;
+    color: #0099ff;
+  }
+  
